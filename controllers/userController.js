@@ -141,7 +141,7 @@ exports.forgotPassword = async (req, res) =>{
             service: 'gmail',
             auth: {
               user: 'rajatsinghrawat.2398@gmail.com',
-              pass: 'prgjtwtmlxkqsjyf'
+              pass: 'password'
             }
           });
 
